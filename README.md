@@ -1,4 +1,4 @@
-To compile the program please type in the terminal:
+To compile the code please type in the terminal:
 
 make secured
 
